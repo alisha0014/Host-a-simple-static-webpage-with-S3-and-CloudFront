@@ -25,6 +25,8 @@ A **Content Delivery Network (CDN)** is a network of distributed servers that ca
 
 ## How would you explain Bucket Policies?
 
+
+
 **Bucket Policies** are JSON-based access control policies applied directly to Amazon S3 buckets. They define permissions and rules for accessing the bucket and its objects. Key aspects of bucket policies include:
 
 - **Granular Permissions**: Bucket policies allow you to specify detailed permissions, including which AWS accounts or IAM users can perform actions like reading, writing, or deleting objects.
@@ -60,4 +62,5 @@ To secure access on an S3 bucket that is fronted by a CDN, you can use the follo
 * [Working with Distributions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/distribution-working-with.html)
 * [Hosting a static website on S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)
 
-
+## Output
+<img width="1920" height="1027" alt="cloudfont" src="https://github.com/user-attachments/assets/53872643-2ba1-45b6-9995-96a3ebfea7f6" />
